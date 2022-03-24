@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import i1_sample
-
+from Individual.IDZ_1.Modules import i1_sample
 
 if __name__ == "__main__":
     sample_string = (
