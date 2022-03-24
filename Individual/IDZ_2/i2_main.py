@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import sys
-from F import i2_display, i2_info, i2_select
+from Modules import i2_display, i2_info, i2_select
 
 
 if __name__ == '__main__':
